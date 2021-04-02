@@ -1,7 +1,6 @@
 
-<h3 align="right">I'm student from russia</h3>
+<h4 align="left">I'm student from russia</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=exicetin&label=Profile%20views&color=0e75b6&style=flat" alt="exicetin" /> </p>
 
 - 🔭 I’m currently working on [on the project of organizing interaction within a medical organization](https://github.com/Exicetin/HW)
 
