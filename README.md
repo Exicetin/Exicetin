@@ -13,7 +13,7 @@
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=exicetin&show_icons=true&locale=en&layout=compact" alt="exicetin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exicetin&" alt="exicetin" /></p>
+<p><img width="500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exicetin&" alt="exicetin" /></p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
