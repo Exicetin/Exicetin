@@ -18,15 +18,10 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="40"/> </a> </p>
-</p6
+</p>
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=exicetin&show_icons=true&locale=en&layout=compact" alt="exicetin" /></p>
 
 <p><img width="500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exicetin&" alt="exicetin" /></p>
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://instagram.com/vide_existentiel" target="blank" color = "red"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vide_existentiel" height="30" width="40"/></a>
-<a href="https://discord.gg/9896" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="9896" height="30" width="40" /></a>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exicetin&label=Profile%20views&color=0e75b6&style=flat" alt="exicetin" /> </p>
