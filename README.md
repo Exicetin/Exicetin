@@ -1,7 +1,7 @@
 <h4 align="left">I'm student from russia</h4>
 
 
-- 🔭 I’m currently working on [on the project of organizing interaction within a medical organization](https://github.com/Exicetin/HW)
+- 🔭 I’m currently working on [on the project of reporting system](https://github.com/Exicetin/RpS)
 
 - 📫 How to reach me **zlakomanovakv@gmail.com**
 
