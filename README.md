@@ -1,4 +1,4 @@
-<h4 align="left">I'm student from russia</h4>
+<h4 align="left">I am a junior developer from Russia</h4>
 
 
 - 📫 How to reach me **zlakomanovakv@gmail.com**
